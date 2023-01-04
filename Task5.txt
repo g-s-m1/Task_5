@@ -1,0 +1,5 @@
+Findings on the takehome_users.csv and takehome_user_engagement.csv
+-------------------------------------------------------------------
+
+If we analyze takehome_users.csv we could see that the user who logged in to the product most of the time has the value "ORG_INVITE"/"GUEST_INVITE" 
+as the creaion_source in takehome_user_engagement.csv and most of them has opted_in_to_mailing_list(True). 
